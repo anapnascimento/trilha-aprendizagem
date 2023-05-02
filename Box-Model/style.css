@@ -1,0 +1,18 @@
+img {
+  width: 100%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: #ffffff;
+  border: 15px double #ae1071;
+}
+.content {
+  background-color: #8a2be2;
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
